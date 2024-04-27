@@ -1,0 +1,31 @@
+.event-item {
+  width: 48%;
+}
+
+.image-button {
+  background-color: transparent;
+  padding: 0;
+  border: none;
+  cursor: pointer;
+}
+
+.active {
+  border: 2px solid #2dd4bf;
+  border-radius: 10px;
+}
+
+.event-image {
+  width: 100%;
+}
+
+.event-name {
+  color: #ffffff;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.event-location {
+  color: #f8fafc;
+  font-size: 12px;
+  margin-top: 10px;
+}
